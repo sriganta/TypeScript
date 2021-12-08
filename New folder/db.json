@@ -1,0 +1,49 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server1",
+      "author": "typicode1"
+    },
+    {
+      "id": 3,
+      "title": "json-server3",
+      "author": "typicode3"
+    },
+    {
+      "id": 4,
+      "title": "Test Mutation",
+      "author": "Akhilesh"
+    },
+    {
+      "id": 5,
+      "title": "Test Mutation Again",
+      "author": "Vandana"
+    },
+    {
+      "id": 6,
+      "title": "Test Mutation Again2",
+      "author": "Srikant"
+    },
+    {
+      "id": 7,
+      "title": "just for test",
+      "author": "someone"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 4
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
